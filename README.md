@@ -77,21 +77,12 @@ Each row of the above table is the model that derives the best validation loss f
 
 _LSTM with tanh and Leaky ReLu as activation function._
 
-<div align="center">
-	<img src="result/bitcoin2015to2017_close_CNN_3_leaky_result.png" width="80%" />
-</div>
 
 _3-layered CNN with Leaky ReLu as activation function._
 
-<div align="center">
-	<img src="result/bitcoin2015to2017_close_rw.png" width="80%" />
-</div>
 
 _Baseline_
 
-<div align="center">
-	<img src="result/bitcoin2015to2017_close_lr.png" width="80%" />
-</div>
 
 _Linear Regression_
 
